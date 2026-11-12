@@ -1,0 +1,6 @@
+{
+  "name": "Falah - Software Enginer",
+  "description": "Website personal satu halaman Falah, Software Enginer. Menampilkan bio 'hidup harus hidup', karya proyek, dan tautan publik dengan aksen merah.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
